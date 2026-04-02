@@ -1,8 +1,8 @@
 # ISBN Validation API
 
-**Author:** [Your Full Name]  
-**Admission Number:** [Your Admission Number]  
-**Course:** [Course Name]  
+**Author:** [MARTINMUUONTHIWA]  
+**Admission Number:** [SCT-254-075/2021]  
+**Course:** [PURE MATHEMATICS AND COMPUTERSCIENCE]  
 **Lecturer:** Mr. Nyaga  
 
 ---

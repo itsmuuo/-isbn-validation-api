@@ -1,7 +1,7 @@
 """
 ISBN Validation API
-Author: [Your Name]
-Admission Number: [Your Admission Number]
+Author: [MARTIN MUUO NTHIWA]
+Admission Number: [SCT-254-075/2021]
 
 A Flask REST API for ISBN-10 and ISBN-13 operations including:
 - Computing ISBN-10 check digits

@@ -1,6 +1,6 @@
 # ISBN Validation API
 
-**Author:** [MARTINMUUONTHIWA]  
+**Author:** [MARTIN MUUO NTHIWA]  
 **Admission Number:** [SCT-254-075/2021]  
 **Course:** [PURE MATHEMATICS AND COMPUTERSCIENCE]  
 **Lecturer:** Mr. Nyaga  
